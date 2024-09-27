@@ -20,7 +20,7 @@
 > [!NOTE]
 > ✨🤠 [The Song I am Currently Listening to](https://open.spotify.com/track/3vRzlGgTZj5Fyx9oykOnD6?si=c36e8739158041df) 🚀💃
 
-# Keyboard Shortcuts
+## Keyboard Shortcuts
 
 Shortcuts I frequently use:
 + Ctrl-A (Select All)
