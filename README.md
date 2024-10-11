@@ -33,4 +33,4 @@ Shortcuts I would like to start using:
 + Win-Period or Semicolon (. or ;) (Open emoji panel)
 
 # Lab 6
-+ [CLI Commands](main/cli.md)
++ [CLI Commands](comp1238/cli.md)
