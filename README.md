@@ -31,3 +31,6 @@ Shortcuts I would like to start using:
 + Alt-Tab (Switch Between Windows)
 + Win-E (Open File Exlorer)
 + Win-Period or Semicolon (. or ;) (Open emoji panel)
+
+# Lab 6
++ [CLI Commands](main/comp1238/cli.md)
