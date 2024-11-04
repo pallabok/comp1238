@@ -1,5 +1,4 @@
 ---
-
 - name: LeBron James
   sport: Basketball
   team:
@@ -17,7 +16,7 @@
 - name: Serena Williams
 	sport: Tennis
   team:
-  	name: N/A
+  	name: N/A # Not on a team, plays solo and duo
     city: N/A
   position: Player
   age: 41
