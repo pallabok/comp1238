@@ -35,4 +35,6 @@ FROM assignments
 WHERE due_date LIKE ('____-09-%'); 
 
 -- Question 8
-
+SELECT course_id, title, status, due_date
+FROM assignments
+WHERE due_date ISNULL
